@@ -1,0 +1,17 @@
+.header {
+    height: 40px;
+    background-color: #2657af;
+}
+
+.header li {
+    list-style-type: none;
+    float: left;
+}
+
+.header li a {
+    color: #ffff;
+    background-color: #2657af;
+    text-decoration: none;
+    line-height: 40px;
+    padding: 4px 8px 4px 8px;
+}
